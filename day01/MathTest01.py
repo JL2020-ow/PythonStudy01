@@ -5,4 +5,4 @@ b=int(x)
 c=math.ceil(x)
 d=math.sqrt(x)
 print(a,b,c,d)
-
+print("=============")
