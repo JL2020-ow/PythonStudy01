@@ -34,6 +34,16 @@ b1 = a1.copy()
 b1[1] = 4
 print(a1)
 
+x1 = ['to','be','or','not','to','be'].count('to')
+print(x1)
+
+a2 = [[1,2],1,1,[2,1,[1,2]]]
+x2 = a2.count(1)
+x3 = a2.count([1,2])
+print(x2)
+print(x3)
+
+
 
 
 
